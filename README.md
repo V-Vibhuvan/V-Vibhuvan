@@ -187,7 +187,16 @@ A **Java-based logistics management application** implementing inventory trackin
 </details>
 ---
 
-## GitHub Statistics
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V-Vibhuvan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=V-Vibhuvan&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Vibhuvan&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
