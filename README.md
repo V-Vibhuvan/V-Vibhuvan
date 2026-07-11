@@ -190,14 +190,13 @@ A **Java-based logistics management application** implementing inventory trackin
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V-Vibhuvan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=V-Vibhuvan&theme=github-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=V-Vibhuvan&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=V-Vibhuvan&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Vibhuvan&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Vibhuvan&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 ## LeetCode
