@@ -204,21 +204,21 @@ A **Java-based logistics management application** implementing inventory trackin
 - 🎯 Actively preparing for **Software Engineering Internships & Full-Time Opportunities**.
 ---
 
-## 🏅 Coding Journey
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-### 🟠 350+ Problems Solved
-
-<img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-
-<br><br>
-
-<a href="https://leetcode.com/u/Mittu_2006/">
-<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-black?style=for-the-badge&logo=leetcode"/>
+<a href="mailto:vibhuvanv@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
----
+<a href="https://www.linkedin.com/in/vibhuvan-vibhu-057a09300/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## Connect With Me
+<a href="https://github.com/V-Vibhuvan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+---
