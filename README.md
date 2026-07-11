@@ -209,27 +209,22 @@ A **Java-based logistics management application** implementing inventory trackin
 <p align="center">
 
 <a href="https://github.com/V-Vibhuvan">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+  <strong>GitHub</strong>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/vibhuvan-vibhu-057a09300/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/><br>
+  <strong>LinkedIn</strong>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:vibhuvanv@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/><br>
+  <strong>Email</strong>
 </a>
-
-</p>
-
-<p align="center">
-
-<b>GitHub</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>LinkedIn</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Email</b>
 
 </p>
