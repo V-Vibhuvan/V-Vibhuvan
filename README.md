@@ -81,72 +81,110 @@ I'm currently preparing for **Software Engineering internships and placements**,
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<details>
+<summary><b>📈 TradeApp – AI-Powered Trading Platform</b></summary>
 
-### 📈 TradeApp – AI-Powered Trading Platform
+<br>
 
-A production-inspired MERN trading platform featuring real-time portfolio tracking, live market updates, AI-powered financial insights, and performance-tested backend services.
+A production-inspired **MERN trading platform** featuring real-time portfolio management, live market updates, AI-powered financial insights, and high-performance backend architecture.
 
-**Tech Stack**
+### ✨ Highlights
 
-`React` `Node.js` `Express` `MongoDB` `Socket.io` `LLMs` `Agentic AI`
+- 📊 Real-time portfolio tracking using Socket.io
+- 🤖 AI-powered trading copilot with LLMs & RAG
+- 🔄 ACID-compliant MongoDB transactions
+- ⚡ Backend optimized with Jest, k6 & GitHub Actions
 
-🔗 **Repository:**  
-https://github.com/V-Vibhuvan/finance_clone
+### 🛠️ Tech Stack
 
-</td>
+`React` `Node.js` `Express` `MongoDB` `Socket.io`
+`LLMs` `Agentic AI`
 
-<td width="50%">
+📂 **Repository**
 
-### 🤖 Astra RAG – Agentic AI Platform
+👉 https://github.com/V-Vibhuvan/finance_clone
 
-A containerized Agentic AI platform that enables secure offline document intelligence using local LLMs, LangGraph workflows, and semantic retrieval.
+</details>
 
-**Tech Stack**
+---
 
-`React` `Node.js` `MongoDB` `LangGraph` `Docker` `Ollama`
+<details>
+<summary><b>🤖 Astra RAG – Containerized Agentic AI Platform</b></summary>
 
-🔗 **Repository:**  
-https://github.com/V-Vibhuvan/Astra_RAG
+<br>
 
-</td>
-</tr>
+An **offline-first Agentic AI platform** that enables intelligent document understanding through semantic retrieval and local LLM inference.
 
-<tr>
-<td width="50%">
+### ✨ Highlights
 
-### 🎥 Connectly – WebRTC Meet & Chat
+- 🐳 Dockerized MERN microservices architecture
+- 🧠 LangGraph-powered Agentic AI workflows
+- 📚 MongoDB Atlas Vector Search
+- 🔒 Local Llama 3 inference using Ollama
 
-A real-time communication platform supporting video calls, messaging, room management, and peer-to-peer media streaming using WebRTC.
+### 🛠️ Tech Stack
 
-**Tech Stack**
+`React` `Node.js` `MongoDB`
+`LangGraph` `Docker` `Ollama`
 
-`React` `Node.js` `Express` `MongoDB` `WebRTC` `Socket.io`
+📂 **Repository**
 
-🔗 **Repository:**  
-https://github.com/V-Vibhuvan/connectly
+👉 https://github.com/V-Vibhuvan/Astra_RAG
 
-</td>
+</details>
 
-<td width="50%">
+---
 
-### 🚚 Logistics Management System
+<details>
+<summary><b>🎥 Connectly – WebRTC Meet & Chat Application</b></summary>
 
-A Java-based logistics application implementing inventory management, shipment tracking, route optimization, and relational database operations.
+<br>
 
-**Tech Stack**
+A **real-time communication platform** supporting peer-to-peer video conferencing, messaging, and room management.
+
+### ✨ Highlights
+
+- 🎥 HD Video & Audio Calls
+- 💬 Live Chat
+- 🌐 WebRTC Peer-to-Peer Streaming
+- ⚡ Low-latency Socket.io Signaling
+
+### 🛠️ Tech Stack
+
+`React` `Node.js` `Express`
+`MongoDB` `WebRTC` `Socket.io`
+
+📂 **Repository**
+
+👉 https://github.com/V-Vibhuvan/connectly
+
+</details>
+
+---
+
+<details>
+<summary><b>🚚 Logistics Management System</b></summary>
+
+<br>
+
+A **Java-based logistics management application** implementing inventory tracking, shipment management, and optimized routing using JDBC and MySQL.
+
+### ✨ Highlights
+
+- 📦 Shipment & Inventory Management
+- 🗄️ JDBC + MySQL Integration
+- 📈 Route Optimization Algorithms
+- 🧩 Object-Oriented Design
+
+### 🛠️ Tech Stack
 
 `Java` `JDBC` `MySQL`
 
-🔗 **Repository:**  
-https://github.com/V-Vibhuvan/Logistics_Management
+📂 **Repository**
 
-</td>
-</tr>
-</table>
+👉 https://github.com/V-Vibhuvan/Logistics_Management
 
+</details>
 ---
 
 ## GitHub Statistics
