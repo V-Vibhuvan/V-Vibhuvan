@@ -192,6 +192,17 @@ A **Java-based logistics management application** implementing inventory trackin
 <p align="center">
     <img width="49%" src="https://streak-stats.demolab.com?user=V-Vibhuvan&theme=github-dark&hide_border=true" />
 </p>
+---
+
+## 🚀 Engineering Highlights
+
+- 🚀 Built **6+ full-stack applications** ranging from real-time communication platforms to AI-powered software.
+- 🤖 Developing intelligent applications using **Generative AI**, **Agentic AI**, **LLMs**, and modern AI frameworks.
+- ⚙️ Designed scalable backend systems with **Node.js**, **Express.js**, **MongoDB**, **Socket.io**, and **Docker**.
+- 🌐 Experienced in building end-to-end applications using the **MERN Stack** with responsive and user-centric interfaces.
+- 🏗️ Passionate about writing clean, maintainable, and production-oriented software with a strong focus on backend architecture.
+- 🎯 Actively preparing for **Software Engineering Internships & Full-Time Opportunities**.
+---
 
 ## LeetCode
 
