@@ -76,9 +76,76 @@ I'm currently preparing for **Software Engineering internships and placements**,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📈 TradeApp – AI-Powered Trading Platform
+
+A production-inspired MERN trading platform featuring real-time portfolio tracking, live market updates, AI-powered financial insights, and performance-tested backend services.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `LLMs` `Agentic AI`
+
+🔗 **Repository:**  
+https://github.com/V-Vibhuvan/finance_clone
+
+</td>
+
+<td width="50%">
+
+### 🤖 Astra RAG – Agentic AI Platform
+
+A containerized Agentic AI platform that enables secure offline document intelligence using local LLMs, LangGraph workflows, and semantic retrieval.
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB` `LangGraph` `Docker` `Ollama`
+
+🔗 **Repository:**  
+https://github.com/V-Vibhuvan/Astra_RAG
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎥 Connectly – WebRTC Meet & Chat
+
+A real-time communication platform supporting video calls, messaging, room management, and peer-to-peer media streaming using WebRTC.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `WebRTC` `Socket.io`
+
+🔗 **Repository:**  
+https://github.com/V-Vibhuvan/connectly
+
+</td>
+
+<td width="50%">
+
+### 🚚 Logistics Management System
+
+A Java-based logistics application implementing inventory management, shipment tracking, route optimization, and relational database operations.
+
+**Tech Stack**
+
+`Java` `JDBC` `MySQL`
+
+🔗 **Repository:**  
+https://github.com/V-Vibhuvan/Logistics_Management
+
+</td>
+</tr>
+</table>
 
 ---
 
